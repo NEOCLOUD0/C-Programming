@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ndhan\Desktop\C Programming\4.7.1\4.7.1\Source.c(7,6): warning C4101: 'j': unreferenced local variable
+C:\Users\ndhan\Desktop\C Programming\4.7.1\4.7.1\Source.c(6,6): warning C4101: 'i': unreferenced local variable
+  4.7.1.vcxproj -> C:\Users\ndhan\Desktop\C Programming\4.7.1\x64\Debug\4.7.1.exe
