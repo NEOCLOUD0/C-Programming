@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\ndhan\Desktop\C Programming\Purchase and tax code\Purchase and tax code\Source.c(71): error C4700: uninitialized local variable 'taxCode' used
+C:\Users\ndhan\Desktop\C Programming\Purchase and tax code\Purchase and tax code\Source.c(87): error C4700: uninitialized local variable 'name' used
+C:\Users\ndhan\Desktop\C Programming\Purchase and tax code\Purchase and tax code\Source.c(88): error C4700: uninitialized local variable 'purchaseAmount' used
+C:\Users\ndhan\Desktop\C Programming\Purchase and tax code\Purchase and tax code\Source.c(89): error C4700: uninitialized local variable 'tax' used
+C:\Users\ndhan\Desktop\C Programming\Purchase and tax code\Purchase and tax code\Source.c(90): error C4700: uninitialized local variable 'totalDue' used

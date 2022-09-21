@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(19,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(19,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(19,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(19,21): message : this argument is used as a buffer size
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(26,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(26,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(26,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(26,21): message : this argument is used as a buffer size
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(33,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(33,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(33,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ndhan\Desktop\C Programming\Enumerations\Enumerations\Source.c(33,21): message : this argument is used as a buffer size
+  Enumerations.vcxproj -> C:\Users\ndhan\Desktop\C Programming\Enumerations\x64\Debug\Enumerations.exe
