@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\ndhan\Desktop\C Programming\Painting a wall\Painting a wall\Source.c(20,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Painting a wall.vcxproj -> C:\Users\ndhan\Desktop\C Programming\Painting a wall\x64\Debug\Painting a wall.exe
